@@ -29,7 +29,7 @@
     "date-fns": "^2.25.0",
     "date-fns-tz": "^1.1.6",
     "intl-tel-input": "^17.0.19",
-    "k-utils-js": "git+https://github.com/kundigo/k-utils-js.git#master",
+    "k-utils-js": "git+https://github.com/ngonzalez/k-utils-js.git",
     "lodash": "^4.17.21",
     "monaco-editor": "^0.20.0",
     "monaco-editor-webpack-plugin": "^1.9.1",
