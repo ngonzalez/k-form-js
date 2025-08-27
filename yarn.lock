@@ -852,9 +852,9 @@ jstransformer@1.0.0:
     is-promise "^2.0.0"
     promise "^7.0.1"
 
-"k-utils-js@git+https://github.com/kundigo/k-utils-js.git#master":
+"k-utils-js@git+https://github.com/ngonzalez/k-utils-js.git":
   version "0.0.5"
-  resolved "git+https://github.com/kundigo/k-utils-js.git#14bba3857254d284594975a7576e30bf09d2018f"
+  resolved "git+https://github.com/ngonzalez/k-utils-js.git#8df32c419678e3c5e2ca9f536bab6be20200b349"
   dependencies:
     axios "^0.21.1"
     moment "^2.24.0"
